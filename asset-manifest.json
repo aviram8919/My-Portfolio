@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.527cfaed.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.6b0220b8.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.6b0220b8.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.2dca773a.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.2dca773a.js.map",
+    "static/js/2.1d2ca499.chunk.js": "/My-Portfolio/static/js/2.1d2ca499.chunk.js",
+    "static/js/2.1d2ca499.chunk.js.map": "/My-Portfolio/static/js/2.1d2ca499.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "precache-manifest.6421e7b27dcf0e7e8f25986c212f0bb3.js": "/My-Portfolio/precache-manifest.6421e7b27dcf0e7e8f25986c212f0bb3.js",
+    "service-worker.js": "/My-Portfolio/service-worker.js",
+    "static/css/main.527cfaed.chunk.css.map": "/My-Portfolio/static/css/main.527cfaed.chunk.css.map",
+    "static/js/2.1d2ca499.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.1d2ca499.chunk.js.LICENSE.txt",
+    "static/media/Profile_Picture.jpg": "/My-Portfolio/static/media/Profile_Picture.21ab7c5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dca773a.js",
+    "static/js/2.1d2ca499.chunk.js",
+    "static/css/main.527cfaed.chunk.css",
+    "static/js/main.6b0220b8.chunk.js"
+  ]
+}
